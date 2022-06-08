@@ -1,2 +1,2 @@
-# EjercicioFIS
+# EjercicioFIS Equipo 2
 Ejercicio FIS
